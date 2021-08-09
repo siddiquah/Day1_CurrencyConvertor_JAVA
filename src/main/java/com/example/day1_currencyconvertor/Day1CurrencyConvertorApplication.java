@@ -9,7 +9,7 @@ import java.awt.event.WindowEvent;
 public class Day1CurrencyConvertorApplication {
     public static void converter()
     {
-        JFrame f = new JFrame("CONVERTER");
+        JFrame f = new JFrame("Curency Convertor INR <-> Dollar");
 
         JLabel l1, l2;
         JTextField t1, t2;
